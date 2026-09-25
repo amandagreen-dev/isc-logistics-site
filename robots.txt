@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isc-logistics.com/sitemap.xml
